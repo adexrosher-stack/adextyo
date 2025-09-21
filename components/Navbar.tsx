@@ -40,8 +40,8 @@ const Navbar = () => {
           <div className="flex items-center space-x-3">
             <div className="w-10 h-10 rounded-full overflow-hidden bg-gradient-to-r from-orange-400 to-orange-600 flex items-center justify-center">
               <img 
-                src="#" 
-                alt="Adane Avatar" 
+                src="/hacker.png" 
+                alt="adane" 
                 className="w-full h-full object-cover rounded-full object-top scale 110"
                 onError={(e) => {
                   // Fallback to User icon if image fails to load
