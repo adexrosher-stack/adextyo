@@ -38,8 +38,8 @@ const Projects = () => {
       github: '#'
     },
     {
-      title: 'Task Management App',
-      description: 'Collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
+      title: 'School Management System',
+      description: 'Developed a web-based platform for managing students, teachers, attendance, grades, schedules, and academic records with role-based access and real-time updates..',
       image: 'https://picsum.photos/400/300?random=2',
       technologies: ['Next.js', 'Tailwind', 'Firebase', 'TypeScript'],
       liveDemo: '#',
