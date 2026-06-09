@@ -42,8 +42,8 @@ const Projects = () => {
       description: 'Developed a web-based platform for managing students, teachers, attendance, grades, schedules, and academic records with role-based access and real-time updates..',
       image: 'https://picsum.photos/400/300?random=2',
       technologies: ['Next.js', 'Tailwind', 'Firebase', 'TypeScript'],
-      liveDemo: '#',
-      github: '#'
+      liveDemo: 'https://aiis.edu.et/',
+      github: 'https://github.com/adexrosher-stack/'
     },
     {
       title: 'Video Streaming Platform',
