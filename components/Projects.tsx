@@ -30,12 +30,12 @@ const Projects = () => {
 
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'Full-stack e-commerce solution with React, Node.js, and Stripe integration. Features include user authentication, product management, and payment processing.',
+      title: 'Admin-dashboard for guadaye.com',
+      description: 'responsive admin dashboard for managing users, analytics, reports, and system settings with role-based access control, data visualization, and real-time monitoring.',
       image: 'https://picsum.photos/400/300?random=1',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      liveDemo: '#',
-      github: '#'
+      liveDemo: 'https://guadaye.com/',
+      github: 'https://github.com/adexrosher-stack/'
     },
     {
       title: 'School Management System',
